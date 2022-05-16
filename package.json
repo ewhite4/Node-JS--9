@@ -1,0 +1,19 @@
+{
+  "name": "node-js--9",
+  "version": "1.0.0",
+  "description": "Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewhite4/Node-JS--9.git"
+  },
+  "author": "Evin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewhite4/Node-JS--9/issues"
+  },
+  "homepage": "https://github.com/ewhite4/Node-JS--9#readme"
+}
