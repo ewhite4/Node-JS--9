@@ -57,6 +57,10 @@ const questions = [
             }
         }
     },
+    {
+        type: 'input',
+        name: ''
+    }
 ];
 
 // TODO: Create a function to write README file
