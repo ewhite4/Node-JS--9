@@ -1,19 +1,15 @@
 {
-  "name": "node-js--9",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "Node",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ewhite4/Node-JS--9.git"
-  },
-  "author": "Evin",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ewhite4/Node-JS--9/issues"
-  },
-  "homepage": "https://github.com/ewhite4/Node-JS--9#readme"
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
 }
