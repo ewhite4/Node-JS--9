@@ -15,3 +15,8 @@ Creating a readme generator that will prompt questions. Answering these will giv
 ### Tests
 
 - Open terminal and type "node index" to run application.
+
+### Link to Video
+
+https://drive.google.com/file/d/1nQUBJBQ5yYWpqLolW9zKsWfKYDCt3A_4/view
+
