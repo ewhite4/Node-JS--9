@@ -67,7 +67,7 @@ Any questions or comments please contact me here.
 
 function writeReadMeFile (responses) {
   const fileContent = generateMarkdown(responses);
-  return fs.writeFile('./dist/Readme.md', fileContent);
+  return fs.writeFile('', fileContent);
 };
 
 module.exports = {writeReadMeFile};

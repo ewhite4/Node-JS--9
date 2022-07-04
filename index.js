@@ -74,8 +74,9 @@ const init = () => {
             name: "tests",
             message: "Please provide a list of instructions"
         },
+
     ])
-    .then(response => {
+    .then(responses => {
         console.log(responses);
         writeReadMeFile(responses);
     });
